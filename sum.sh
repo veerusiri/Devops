@@ -1,7 +1,7 @@
 #!/bin/bash
 sum=0
 avg=`expr 8899 - 100`
-for ((i=1; i<=4; i++))
+for ((i=1; j<=4; i++))
 do 
 sum=`expr $sum + $i`
 s=$sum
